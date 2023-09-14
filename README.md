@@ -104,9 +104,11 @@ Profit prediction:
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/82c44aa0-d938-4356-ac6b-8ae9332dd509)
 
 Cost function using Gradient Descent:
+
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/96fa3310-fd27-4ef3-ba59-ffeb1fb32f39)
 
 Profit prediction:
+
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/f422ed04-1c77-4c34-9db9-a5a3f0ee3734)
 
 
