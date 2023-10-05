@@ -103,6 +103,14 @@ Profit prediction:
 
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/82c44aa0-d938-4356-ac6b-8ae9332dd509)
 
+Function output:
+
+![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/537bd015-9216-4859-8631-4cd7cdd61731)
+
+Gradient descent:
+
+![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/4e18d97b-f355-44f1-8203-d6890030c601)
+
 Cost function using Gradient Descent:
 
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/96fa3310-fd27-4ef3-ba59-ffeb1fb32f39)
@@ -111,6 +119,11 @@ Profit prediction:
 
 ![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/f422ed04-1c77-4c34-9db9-a5a3f0ee3734)
 
+Profit prediction for a population of 35,000:
+![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/9dcf44c2-bdc3-4bb9-b2ae-101b37ca20b1)
+
+Profit prediction for a population of 70,000:
+![image](https://github.com/swethaselvarajm/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119525603/d70df6c7-e0cf-4e83-a322-1b3eaecdfd1b)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
